@@ -12,14 +12,14 @@ The information collected in this repository comes from community members, Antho
         <li><a href="#building-block-status-matrix">Building Block Status Matrix</a></li>
       </ul>
     </li>
-    <!--<li>
+    <li>
       <a href="#publisher-developer-information">Publisher / Developer Information</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#Cengage-Learning-MindLinks">Cengage Learning MindLinks</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!--<li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -60,7 +60,7 @@ The information collected in this repository comes from community members, Antho
 
 
 
-Matrix Footnotes<br><br>
+### Matrix Footnotes
 <sup>1</sup>Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: [https://community.anthology.com/blogs/8/1243](https://community.anthology.com/blogs/8/1243)<br>
 <sup>2</sup>Kaltura LTI integration available but as of June 22 migration tool to move Kaltura linked videos within Blackboard to new integration is under development. - Terry P.<br>
 
