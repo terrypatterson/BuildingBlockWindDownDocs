@@ -56,3 +56,8 @@ The information collected in this repository comes from community members, Antho
 |ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |          |
 |Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |           |
 |Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Depracated) |                                        |
+
+
+Matrix Footnotes
+<sup>1</sup>Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: https://community.anthology.com/blogs/8/1243
+<sup>2</sup>Kaltura LTI integration available but as of June 22 migration tool to move Kaltura linked videos within Blackboard to new integration is under development. - Terry P.
