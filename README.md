@@ -49,4 +49,10 @@ The information collected in this repository comes from community members, Antho
 |Mediasite for VTBE |Sonic Foundry |Yes |-- |Unknown |                                                            |
 |My Class Climate |Scantron |Yes |-- |Unknown |                                                                   |
 |NBC Content Integration |Blackboard |-- |-- |Unknown |                                                           |
-|
+|Online Attendance |Hardin-Simmons University |-- |-- |EOL (Publisher Depracated) |                               |
+|Panopto Connector |Panopto |Yes |No |In Development |                                                            |
+|Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- |LTI Replacement Available |                              |
+|Qwickly Course Tools |Qwickly |Yes |No |EOL (Publisher Depracated) |                                             |
+|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |          |
+|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |           |
+|Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Depracated) |                                        |
