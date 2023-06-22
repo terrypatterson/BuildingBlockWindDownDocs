@@ -31,7 +31,7 @@ The information collected in this repository comes from community members, Antho
 ## Building Block Status Matrix
 
 
-| Building Block Name | Publisher | Original Exp Usage | Ultra Exp Usage | Replacement Status | Support Resources |
+| **Building Block Name** | **Publisher** | **Original Exp Usage** | **Ultra Exp Usage** | **Replacement Status** | **Support Resources** |
 |---------------------|-----------|--------------------|-----------------|--------------------|-------------------|
 |Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Depracated) |            |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No |Product Deprecated |                               |
