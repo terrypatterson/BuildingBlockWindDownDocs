@@ -72,13 +72,13 @@ The information collected in this repository comes from community members, Antho
 Available with Partner Cloud + LTI 1.3<br><br>
 
 Get to know more about the tool <br>
-Link: [https://appcatalog.blackboard.com/details/cengage-integration](https://appcatalog.blackboard.com/details/cengage-integration)<br><br>
+Link: [https://appcatalog.blackboard.com/details/cengage-integration](https://appcatalog.blackboard.com/details/cengage-integration)<br>
 
 How to set up the integration <br>
-Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br><br>
+Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br>
 
 Migration tool <br>
-[https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br><br>
+[https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br>
 
 Contact Cengage <br>
 [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
