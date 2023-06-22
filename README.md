@@ -35,7 +35,7 @@ The information collected in this repository comes from community members, Antho
 |---------------------|-----------|--------------------|-----------------|--------------------|-------------------|
 |Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Depracated) |            |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No |Product Deprecated |                               |
-|Cengage Learning MindLinks |Cengage/Blackboard |Yes |No |LTI Replacement Available |                             |
+|Cengage Learning MindLinks |Cengage/Blackboard |Yes |No |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
 |EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |        |
 |Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> ||
 |Health Check |Blackboard |-- |-- |Unknown |                                                                      |
