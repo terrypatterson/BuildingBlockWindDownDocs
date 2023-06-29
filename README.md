@@ -36,12 +36,12 @@ The information collected in this repository comes from community members, Antho
 |Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Depracated) |            |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No |Product Deprecated |                               |
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
-|EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)[^1] |                |
-|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)[^1] |        |
+|EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |                |
+|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |        |
 |Health Check |Blackboard |-- |-- |Unknown |                                                                      |
 |Internships.com |Blackboard Consulting |No |No |Unknown |                                                        |
 |Javascript Hacks |OSCELOT |Yes |No |EOL (Publisher Depracated) |                                                 |
-|Kaltura |Kaltura |Yes |Yes |LTI Replacement Available[^2] |                                                      |
+|Kaltura |Kaltura |Yes |Yes |LTI Replacement Available<sup>2</sup> |                                                      |
 |Learn Transition Planning |Blackboard Client Experience |-- |-- |Unknown |                                       |
 |McGraw-Hill Campus |McGraw-Hill HE |Yes |-- |Unknown |                                                           |
 |McGraw-Hill Connect and Create |McGraw-Hill/Blackboard |Yes |-- |LTI Replacement Available |                     |
@@ -53,16 +53,16 @@ The information collected in this repository comes from community members, Antho
 |Panopto Connector |Panopto |Yes |No |In Development |                                                            |
 |Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- |LTI Replacement Available |                              |
 |Qwickly Course Tools |Qwickly |Yes |No |EOL (Publisher Depracated) |                                             |
-|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)[^1] |                  |
-|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)[^1] |                   |
+|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |                  |
+|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |                   |
 |Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Depracated) |                                        |
 |Soomo Integration |Soomo Learning |-- |-- |Unknown |                                                             |
 
 
 
 ### Matrix Footnotes
-[^1] - Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: [https://community.anthology.com/blogs/8/1243](https://community.anthology.com/blogs/8/1243)<br>
-[^2] - Kaltura LTI integration available but as of June 22 migration tool to move Kaltura linked videos within Blackboard to new integration is under development. - Terry P.<br>
+<sup>1</sup> - Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: [https://community.anthology.com/blogs/8/1243](https://community.anthology.com/blogs/8/1243)<br>
+<sup>2</sup> - Kaltura LTI integration available but as of June 22 migration tool to move Kaltura linked videos within Blackboard to new integration is under development. - Terry P.<br>
 
 
 ## Publisher / Developer Information
