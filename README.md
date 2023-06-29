@@ -160,31 +160,25 @@ Contact Talis [https://support.talis.com/hc/en-us/requests/new](https://support.
 
 ### Biometric Signature ID
 
-Get to know more about the tool, available only in Ultra 
-https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/ 
-How to set up the integration
-https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration
-Contact Biosig
-https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248
+Get to know more about the tool, available only in Ultra - [https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/](https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/)<br />
+How to set up the integration - [https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration](https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration)<br />
+[https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248](https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248)
 
 ### Honorlock
 
-Help using the integration 
-https://honorlock.kb.help/using-honorlock-with-blackboard/ 
-Adding Blackboard Ultra Course View Content to Original Course View 
-https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/ 
-Using Honorlock in Blackboard ultra 
-https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/
+Help using the integration - [https://honorlock.kb.help/using-honorlock-with-blackboard/](https://honorlock.kb.help/using-honorlock-with-blackboard/)<br />
+Adding Blackboard Ultra Course View Content to Original Course View - [https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/](https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/)<br /> 
+Using Honorlock in Blackboard Ultra - [https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/](https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/)
 
 ### iClicker
 
-Get to know more about the tool - iClicker Cloud. https://appcatalog.blackboard.com/details/iclicker-cloud/ 
-How to set up the tool - https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard
+Get to know more about the tool - iClicker Cloud - [https://appcatalog.blackboard.com/details/iclicker-cloud/](https://appcatalog.blackboard.com/details/iclicker-cloud/)<br />
+How to set up the tool - [https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard](https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard)
 
 ### Eesysoft / Impact
 
-Get to know more about the tool - https://appcatalog.blackboard.com/details/eesysoft-in-ultra
-How to set up the integration - https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662
+Get to know more about the tool - [https://appcatalog.blackboard.com/details/eesysoft-in-ultra](https://appcatalog.blackboard.com/details/eesysoft-in-ultra)<br />
+How to set up the integration - [https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662](https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662)<br />
 No alternative available in Original
 
 ### LoginAs
@@ -193,10 +187,10 @@ Anthology recommends using Blackboard Login-As tool released in February 2023, h
 
 ### Lynda / LinkedIn Learning
 
-LinkedIn Learning available through LTI1.3 and Partner Cloud
-Get to know more about the tool - https://appcatalog.blackboard.com/details/linkedin-learning/
-How to set up the tool LTI 1.3 - https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard
-Contact Linkedin Learning - https://www.linkedin.com/help/learning/ask
+LinkedIn Learning available through LTI1.3 and Partner Cloud<br />
+Get to know more about the tool - [https://appcatalog.blackboard.com/details/linkedin-learning/](https://appcatalog.blackboard.com/details/linkedin-learning/)<br />
+How to set up the tool LTI 1.3 - [https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard](https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard)<br />
+Contact Linkedin Learning - [https://www.linkedin.com/help/learning/ask](https://www.linkedin.com/help/learning/ask)<br />
 Migration tool not available
 
 ### My Messages
@@ -205,19 +199,18 @@ This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology 
 
 ### Panopto and Panopto Connector
 
-Get to know more about the tool, only available in Ultra -  https://appcatalog.blackboard.com/details/panopto
-How to set up the tool -  https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration
-Migration tool not available
+Get to know more about the tool, only available in Ultra - [https://appcatalog.blackboard.com/details/panopto](https://appcatalog.blackboard.com/details/panopto)<br />
+How to set up the tool - [https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration](https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration)<br />
+Migration tool not available<br /><br />
 
-Connector
+Connector<br />
 
-Additional work in process for Original vs. Ultra course support.
-https://appcatalog.blackboard.com/details/panopto/
+Additional work in process for Original vs. Ultra course support - [https://appcatalog.blackboard.com/details/panopto/](https://appcatalog.blackboard.com/details/panopto/)<br />
 
 ### ProctorU
 
-Available through Chrome/Firefox plugin extension https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process
-For further details contact Proctoru- https://support.proctoru.com/hc/en-us/requests/new
+Available through Chrome/Firefox plugin extension - [https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process](https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process)<br />
+For further details contact Proctoru - [https://support.proctoru.com/hc/en-us/requests/new](https://support.proctoru.com/hc/en-us/requests/new)
 
 ### SoftChalk with ScoreCenter
 
