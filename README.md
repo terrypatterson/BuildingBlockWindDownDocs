@@ -226,55 +226,96 @@ This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology 
 
 ### Panopto and Panopto Connector
 
-Get to know more about the tool, only available in Ultra - [https://appcatalog.blackboard.com/details/panopto](https://appcatalog.blackboard.com/details/panopto)<br />
-How to set up the tool - [https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration](https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration)<br />
+Get to know more about the tool, only available in Ultra<br />
+Link: [https://appcatalog.blackboard.com/details/panopto](https://appcatalog.blackboard.com/details/panopto)<br />
+
+How to set up the tool<br />
+Link: [https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration](https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-Integration)<br />
+
 Migration tool not available<br /><br />
 
 Connector<br />
 
-Additional work in process for Original vs. Ultra course support - [https://appcatalog.blackboard.com/details/panopto/](https://appcatalog.blackboard.com/details/panopto/)<br />
+Additional work in process for Original vs. Ultra course support<br />
+Link: [https://appcatalog.blackboard.com/details/panopto/](https://appcatalog.blackboard.com/details/panopto/)<br /><br />
 
 ### ProctorU
 
-Available through Chrome/Firefox plugin extension - [https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process](https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process)<br />
-For further details contact Proctoru - [https://support.proctoru.com/hc/en-us/requests/new](https://support.proctoru.com/hc/en-us/requests/new)
+Available through Chrome/Firefox plugin extension<br />
+Link: [https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process](https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process)<br />
+
+For further details contact Proctoru<br />
+Link: [https://support.proctoru.com/hc/en-us/requests/new](https://support.proctoru.com/hc/en-us/requests/new)<br /><br />
 
 ### SoftChalk with ScoreCenter
 
-Get to know more about the tool - https://appcatalog.blackboard.com/details/softchalk-cloud/
-How to configure the tool - Blackboard and SoftChalk Cloud Integration Guide - https://softchalk.com/lms-integration/blackboard
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/softchalk-cloud/](https://appcatalog.blackboard.com/details/softchalk-cloud/)<br />
+
+How to configure the tool - Blackboard and SoftChalk Cloud Integration Guide<br />
+Link: [https://softchalk.com/lms-integration/blackboard](https://softchalk.com/lms-integration/blackboard)<br /><br />
 
 ### TurnItIn Assignment
 
-Building Block no longer supported by Turnitin Get to know more about the tool - https://appcatalog.blackboard.com/details/feedback-studio
-How to set up the tool - https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm
-Contact Turnitin for more details on how to transition - https://supportcenter.turnitin.com/s/contactsupport
+Building Block no longer supported by Turnitin Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/feedback-studio](https://appcatalog.blackboard.com/details/feedback-studio)<br />
+
+How to set up the tool<br />
+Link: [https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm](https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm)<br />
+
+Contact Turnitin for more details on how to transition<br />
+Link: [https://supportcenter.turnitin.com/s/contactsupport](https://supportcenter.turnitin.com/s/contactsupport)<br /><br />
 
 ### TurnItIn Direct Submit
 
-Building Block no longer supported by Turnitin
-Get to know more about the tool - https://appcatalog.blackboard.com/details/feedback-studio
-How to set up the tool - https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm
-Contact Turnitin for more details on how to transition - https://supportcenter.turnitin.com/s/contactsupport
+Building Block no longer supported by Turnitin<br />
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/feedback-studio](https://appcatalog.blackboard.com/details/feedback-studio)<br />
+
+How to set up the tool<br />
+Link: [https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm](https://help.turnitin.com/feedback-studio/blackboard/lti/administrator/getting-started/configuring-turnitin-in-blackboard.htm)<br />
+
+Contact Turnitin for more details on how to transition<br />
+Link: [https://supportcenter.turnitin.com/s/contactsupport](https://supportcenter.turnitin.com/s/contactsupport)<br /><br />
 
 ### Ublish
 
-Available in Partner Cloud and LTI 1.3
-Get to know more about the tool - https://appcatalog.blackboard.com/details/mybusinesscourse
-How to set up the tool - https://behind.blackboard.com/s/System-Administrator/Learn/Downloads/download.aspxUnknownd=1652
-LTI - https://mybusinesscourse.com/user_guide/161746/article/242468
-Contact the partner for more details - https://cambridgepub.com/contact
+Available in Partner Cloud and LTI 1.3<br />
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/mybusinesscourse](https://appcatalog.blackboard.com/details/mybusinesscourse)<br />
+
+How to set up the tool<br />
+Link: [https://behind.blackboard.com/s/System-Administrator/Learn/Downloads/download.aspxUnknownd=1652](https://behind.blackboard.com/s/System-Administrator/Learn/Downloads/download.aspxUnknownd=1652)<br />
+
+LTI<br />
+Link: [https://mybusinesscourse.com/user_guide/161746/article/242468](https://mybusinesscourse.com/user_guide/161746/article/242468)<br />
+
+Contact the partner for more details<br />
+Link: [https://cambridgepub.com/contact](https://cambridgepub.com/contact)<br /><br />
 
 ### WebAssign
 
-Available in Partner Cloud
-Get to know more about the tool - https://appcatalog.blackboard.com/details/cengage-integration
-How to set up the integration - https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf
-Migration tool - https://www.cengage.com/lms-admin/blackboard/
-Contact Cengage - https://www.cengage.com/repfinder/
+Available in Partner Cloud<br />
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/cengage-integration](https://appcatalog.blackboard.com/details/cengage-integration)<br />
+
+How to set up the integration<br />
+Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br />
+
+Migration tool<br />
+Link: [https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br />
+
+Contact Cengage<br />
+Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br /><br />
 
 ### WileyPlus
 
-Building Block and Parter Cloud integrations no longer supported by Wiley, Preferred method for integration is LTI
-How to set up the tool - https://wpsupport.wiley.com/s/article/WileyPLUS-NewUX-Blackboard-Admin-Integration-Guide-LTI-1-3
-Contact Wiley - LMSintegrations@wiley.com
+Building Block and Parter Cloud integrations no longer supported by Wiley, Preferred method for integration is LTI.<br />
+
+How to set up the tool<br />
+Link: [https://wpsupport.wiley.com/s/article/WileyPLUS-NewUX-Blackboard-Admin-Integration-Guide-LTI-1-3](https://wpsupport.wiley.com/s/article/WileyPLUS-NewUX-Blackboard-Admin-Integration-Guide-LTI-1-3)<br />
+
+Contact Wiley - LMSintegrations@wiley.com<br /><br />
