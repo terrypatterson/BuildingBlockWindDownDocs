@@ -51,8 +51,7 @@ The information collected in this repository comes from community members, Antho
 |Campus Labs Building Block|Campus Labs|||Available||See multiple solutions here https://appcatalog.blackboard.com/partners/0017000000p3LhGAAU/Campus%20Labs/|
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No | |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
 |Data Visualization Framework|Blackboard Consulting|||Available|Yes|Student Insights Toolkit|
-|Digication|Digication|||Available|Yes|Get to know more about the tool https://appcatalog.blackboard.com/details/digication How to set up the integration https://support.digication.com/hc/en-us/articles/360035633252 
-Contact Digication https://support.digication.com/hc/en-us/requests/new|
+|Digication|Digication|||Available|Yes||
 |Downloadable Gradebook Extract and Reporting Framework|Blackboard Consulting|||Available|Yes|Reporting Framework Extension|
 |Dropbox Integration|Dropbox|||LTI Rest Tool in Review|TBC|Additional Integration needs currently under validation by Dropbox|
 |EAC |Educational Assessments Corporation |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |        |
@@ -65,17 +64,12 @@ Contact Digication https://support.digication.com/hc/en-us/requests/new|
 |EvaluationKIT User Access|EvaluationKIT|||Available|Yes||
 |GoSignMeUp|GoSignMeUp|||In Development||LTI tool in development,currently in testing phase|
 |Grades Journey|Blackboard Consulting|||Available|Yes|Grades Journey Extension|
-|Hawkes Course Sync Tool|Hawkeslearning.com|||Available|Pending confirmation|How to set up the tool
-<br />https://support.hawkeslearning.com/supportcenter/index.phpUnknown/article/AA-00661/0/How-to-Set-up-the-Hawkes-Synchronization-Tool-and-Single-Sign-On-Link-for-Blackboard-SaaS.html|
+|Hawkes Course Sync Tool|Hawkeslearning.com|||Available|Pending confirmation||
 |Health Check |Blackboard |-- |-- | |Unknown |                                                                      |
 |Honorlock|Honorlock|||Available|Yes||
 |iClicker|iClicker|||Available|Pending confirmation||
 |ILP Integration|Ellucian Inc.|||In Development|TBC|Additional Integration needs currently under validation by Anthology/Ellucian|
-|Impact (former Eesysoft)|Instructure|||Available|Yes|"Get to know more about the tool
- https://appcatalog.blackboard.com/details/eesysoft-in-ultra
- How to set up the integration
- https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662
- No alternative available in Original|
+|Impact (former Eesysoft)|Instructure|||Available|Yes||
 |Impersonate|Open Source|||Available||Anthology recommends using Blackboard Login-As tool released in February 2023, https://help.blackboard.com/node/44822. Additional enhancements are planned|
 Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration needs currently under validation by Anthology/Intelliboard|
 |Internships.com |Blackboard Consulting |No |No | |Unknown |                                                        |
@@ -153,6 +147,7 @@ Contact Cengage <br>
 Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
 
 ### Aspire - Bb Learn
+<a id="Aspire"></a>
 
 Get to know more about the tool<br />
 Link: [https://appcatalog.blackboard.com/details/talis-aspire-reading-lists](https://appcatalog.blackboard.com/details/talis-aspire-reading-lists)<br />
@@ -164,6 +159,7 @@ Contact Talis<br />
 Link: [https://support.talis.com/hc/en-us/requests/new](https://support.talis.com/hc/en-us/requests/new)<br><br>
 
 ### Biometric Signature ID
+<a id="Biometric"></a>
 
 Get to know more about the tool, available only in Ultra<br />
 Link: [https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/](https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/)<br />
@@ -173,7 +169,26 @@ Link: [https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#
 
 Link: [https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248](https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248)<br><br>
 
+### Digication
+<a id="Digication"></a>
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/digication](https://appcatalog.blackboard.com/details/digication)<br />
+
+How to set up the integration<br />
+Link: [https://support.digication.com/hc/en-us/articles/360035633252](https://support.digication.com/hc/en-us/articles/360035633252)<br />
+
+Contact Digication<br />
+Link: [https://support.digication.com/hc/en-us/requests/new](https://support.digication.com/hc/en-us/requests/new)<br /><br />
+
+### Hawkes Course Sync Tool
+<a id="Hawkes"></a>
+
+How to set up the tool<br />
+Link: [https://support.hawkeslearning.com/supportcenter/index.phpUnknown/article/AA-00661/0/How-to-Set-up-the-Hawkes-Synchronization-Tool-and-Single-Sign-On-Link-for-Blackboard-SaaS.html](https://support.hawkeslearning.com/supportcenter/index.phpUnknown/article/AA-00661/0/How-to-Set-up-the-Hawkes-Synchronization-Tool-and-Single-Sign-On-Link-for-Blackboard-SaaS.html)<br /><br />
+
 ### Honorlock
+<a id="Honorlock"></a>
 
 Help using the integration<br>
 Link: [https://honorlock.kb.help/using-honorlock-with-blackboard/](https://honorlock.kb.help/using-honorlock-with-blackboard/)<br />
@@ -185,6 +200,7 @@ Using Honorlock in Blackboard Ultra<br>
 Link: [https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/](https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/)
 
 ### iClicker
+<a id="iClicker"></a>
 
 Get to know more about the tool - iClicker Cloud<br />
 Link: [https://appcatalog.blackboard.com/details/iclicker-cloud/](https://appcatalog.blackboard.com/details/iclicker-cloud/)<br />
@@ -193,6 +209,7 @@ How to set up the tool<br />
 Link: [https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard](https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard)<br /><br />
 
 ### Eesysoft / Impact
+<a id="eesysoft-impact"></a>
 
 Get to know more about the tool<br />
 Link: [https://appcatalog.blackboard.com/details/eesysoft-in-ultra](https://appcatalog.blackboard.com/details/eesysoft-in-ultra)<br />
@@ -203,10 +220,12 @@ Link: [https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Imp
 No alternative available in Original<br /><br />
 
 ### LoginAs
+<a id="login-as"></a>
 
 Anthology recommends using Blackboard Login-As tool released in February 2023, https://help.blackboard.com/node/44822. Additional enhancements are planned.<br /><br />
 
 ### Lynda / LinkedIn Learning
+<a id="lynda-linkedin"></a>
 
 LinkedIn Learning available through LTI1.3 and Partner Cloud<br />
 
@@ -221,10 +240,12 @@ Link: [https://www.linkedin.com/help/learning/ask](https://www.linkedin.com/help
 Migration tool not available<br /><br />
 
 ### My Messages
+<a id="my-messages"></a>
 
 This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology recommends adopting Base Navigation, where the main use cases are covered natively by Blackboard Learn. If your institution has ideas for improvement, please add the request to the Ideas Exchange.<br /><br />
 
 ### Panopto and Panopto Connector
+<a id="panopto"></a>
 
 Get to know more about the tool, only available in Ultra<br />
 Link: [https://appcatalog.blackboard.com/details/panopto](https://appcatalog.blackboard.com/details/panopto)<br />
@@ -235,11 +256,13 @@ Link: [https://support.panopto.com/s/article/How-to-Set-Up-a-Blackboard-Ultra-In
 Migration tool not available<br /><br />
 
 Connector<br />
+<a id="panopto-connector"></a>
 
 Additional work in process for Original vs. Ultra course support<br />
 Link: [https://appcatalog.blackboard.com/details/panopto/](https://appcatalog.blackboard.com/details/panopto/)<br /><br />
 
 ### ProctorU
+<a id="proctor-u"></a>
 
 Available through Chrome/Firefox plugin extension<br />
 Link: [https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process](https://support.proctoru.com/hc/en-us/articles/360040697712-Blackboard-Exam-Enablement-Process)<br />
@@ -248,6 +271,7 @@ For further details contact Proctoru<br />
 Link: [https://support.proctoru.com/hc/en-us/requests/new](https://support.proctoru.com/hc/en-us/requests/new)<br /><br />
 
 ### SoftChalk with ScoreCenter
+<a id="softchalk"></a>
 
 Get to know more about the tool<br />
 Link: [https://appcatalog.blackboard.com/details/softchalk-cloud/](https://appcatalog.blackboard.com/details/softchalk-cloud/)<br />
@@ -256,6 +280,7 @@ How to configure the tool - Blackboard and SoftChalk Cloud Integration Guide<br 
 Link: [https://softchalk.com/lms-integration/blackboard](https://softchalk.com/lms-integration/blackboard)<br /><br />
 
 ### TurnItIn Assignment
+<a id="turnitin-assignment"></a>
 
 Building Block no longer supported by Turnitin Get to know more about the tool<br />
 Link: [https://appcatalog.blackboard.com/details/feedback-studio](https://appcatalog.blackboard.com/details/feedback-studio)<br />
@@ -267,6 +292,7 @@ Contact Turnitin for more details on how to transition<br />
 Link: [https://supportcenter.turnitin.com/s/contactsupport](https://supportcenter.turnitin.com/s/contactsupport)<br /><br />
 
 ### TurnItIn Direct Submit
+<a id="turnitin-direct"></a>
 
 Building Block no longer supported by Turnitin<br />
 
@@ -280,6 +306,7 @@ Contact Turnitin for more details on how to transition<br />
 Link: [https://supportcenter.turnitin.com/s/contactsupport](https://supportcenter.turnitin.com/s/contactsupport)<br /><br />
 
 ### Ublish
+<a id="ublish"></a>
 
 Available in Partner Cloud and LTI 1.3<br />
 
@@ -296,6 +323,7 @@ Contact the partner for more details<br />
 Link: [https://cambridgepub.com/contact](https://cambridgepub.com/contact)<br /><br />
 
 ### WebAssign
+<a id="webassign"></a>
 
 Available in Partner Cloud<br />
 
@@ -312,6 +340,7 @@ Contact Cengage<br />
 Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br /><br />
 
 ### WileyPlus
+<a id="wileyplus"></a>
 
 Building Block and Parter Cloud integrations no longer supported by Wiley, Preferred method for integration is LTI.<br />
 
