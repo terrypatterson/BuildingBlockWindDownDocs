@@ -147,28 +147,37 @@ How to set up the integration <br>
 Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br>
 
 Migration tool <br>
-[https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br>
+Link: [https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br>
 
 Contact Cengage <br>
-[https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
+Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
 
 ### Aspire - Bb Learn
 
-Get to know more about the tool [https://appcatalog.blackboard.com/details/talis-aspire-reading-lists](https://appcatalog.blackboard.com/details/talis-aspire-reading-lists)<br />
-How to set up the integration [https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup](https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup)<br />
-Contact Talis [https://support.talis.com/hc/en-us/requests/new](https://support.talis.com/hc/en-us/requests/new)
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/talis-aspire-reading-lists](https://appcatalog.blackboard.com/details/talis-aspire-reading-lists)<br />
+
+How to set up the integration<br />
+Link: [https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup](https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup)<br />
+Contact Talis<br />
+Link: [https://support.talis.com/hc/en-us/requests/new](https://support.talis.com/hc/en-us/requests/new)<br><br>
 
 ### Biometric Signature ID
 
-Get to know more about the tool, available only in Ultra - [https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/](https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/)<br />
-How to set up the integration - [https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration](https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration)<br />
-[https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248](https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248)
+Get to know more about the tool, available only in Ultra<br />
+Link: [https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/](https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/)<br /><br>
+How to set up the integration<br />
+Link: [https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration](https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration)<br />
+Link: [https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248](https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248)<br><br>
 
 ### Honorlock
 
-Help using the integration - [https://honorlock.kb.help/using-honorlock-with-blackboard/](https://honorlock.kb.help/using-honorlock-with-blackboard/)<br />
-Adding Blackboard Ultra Course View Content to Original Course View - [https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/](https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/)<br /> 
-Using Honorlock in Blackboard Ultra - [https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/](https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/)
+Help using the integration<br>
+Link: [https://honorlock.kb.help/using-honorlock-with-blackboard/](https://honorlock.kb.help/using-honorlock-with-blackboard/)<br />
+Adding Blackboard Ultra Course View Content to Original Course View<br>
+Link: [https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/](https://honorlock.kb.help/adding-blackboard-ultra-course-view-content-to-original-course-view/)<br /> 
+Using Honorlock in Blackboard Ultra<br>
+Link: [https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/](https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/)
 
 ### iClicker
 
