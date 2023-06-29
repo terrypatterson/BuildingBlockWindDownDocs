@@ -67,6 +67,7 @@ The information collected in this repository comes from community members, Antho
 ## Publisher / Developer Information
 
 ### Cengage Learning MindLinks
+<span id="Cengage-Learning-MindLinks"></span>
 
 Available with Partner Cloud + LTI 1.3<br>
 
