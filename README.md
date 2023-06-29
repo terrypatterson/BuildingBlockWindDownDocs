@@ -31,32 +31,44 @@ The information collected in this repository comes from community members, Antho
 ## Building Block Status Matrix
 
 
-| **Building Block Name** | **Publisher** | **Original Exp Usage** | **Ultra Exp Usage** | **Replacement Status** | **Support Resources** |
-|---------------------|-----------|--------------------|-----------------|--------------------|-------------------|
-|Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Deprecated) |            |
-|Blackboard Collaborate Voice |Blackboard Collaborate |No |No |Product Deprecated |                               |
-|Cengage Learning MindLinks |Cengage/Blackboard |Yes |No |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
-|EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |        |
-|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> ||
-|Health Check |Blackboard |-- |-- |Unknown |                                                                      |
-|Internships.com |Blackboard Consulting |No |No |Unknown |                                                        |
-|Javascript Hacks |OSCELOT |Yes |No |EOL (Publisher Deprecated) |                                                 |
-|Kaltura |Kaltura |Yes |Yes |LTI Replacement Available<sup>2</sup> |                                              |
-|Learn Transition Planning |Blackboard Client Experience |-- |-- |Unknown |                                       |
-|McGraw-Hill Campus |McGraw-Hill HE |Yes |-- |Unknown |                                                           |
-|McGraw-Hill Connect and Create |McGraw-Hill/Blackboard |Yes |-- |LTI Replacement Available |                     |
-|Mediasite |Sonic Foundry |Yes |-- |Unknown |                                                                     |
-|Mediasite for VTBE |Sonic Foundry |Yes |-- |Unknown |                                                            |
-|My Class Climate |Scantron |Yes |-- |Unknown |                                                                   |
-|NBC Content Integration |Blackboard |-- |-- |Unknown |                                                           |
-|Online Attendance |Hardin-Simmons University |-- |-- |EOL (Publisher Deprecated) |                               |
-|Panopto Connector |Panopto |Yes |No |In Development |                                                            |
-|Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- |LTI Replacement Available |                              |
-|Qwickly Course Tools |Qwickly |Yes |No |EOL (Publisher Deprecated) |                                             |
-|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |          |
-|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |           |
-|Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Deprecated) |                                        |
-|Soomo Integration |Soomo Learning |-- |-- |Unknown |                                                             |
+| **Building Block Name** | **Publisher** | **Original Exp Usage** | **Ultra Exp Usage** | **Replacement Status** | **Alternative LTI Tool (LTI 1.3) Ready** | **Support Resources** |
+|---------------------|-----------|--------------------|-----------------|--------------------|-------------------|-------------------|
+|Add user by role (Durham)|OSCELOT / Open Source |Yes|Yes| |Under review. Anthology is planning to address key use cases in future releases. |
+|Adobe|Adobe|||Available|Yes| |
+|Advanced Group Management|Developed by Florida State University|||Unknown|Unknown|Current version of B2 says 2.0.4|
+|aspire-bb-learn|Talis Education Ltd|||Available|Yes|"Get to know more about the tool
+ https://appcatalog.blackboard.com/details/talis-aspire-reading-lists 
+ How to set up the integration
+ https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup 
+ Contact Talis
+ https://support.talis.com/hc/en-us/requests/new|
+|Authentica|Authentica Solutions|||Available|Pending confirmation|Building block no longer supported, contact your Anthology customer service for alternatives|
+|AutoSignon|Open Source|||Available||This Open Source Building Block won’t be supported beyond Dec 2023, instead customers should leverage SSO standards. Our recommended tools are SAML for inbound requests, and LTI for outbound requests. If your institution needs a functionality that is missing, please add the request to the Ideas Exchange.|
+|Barnes & Noble NOOK Study|Barnes & Noble|||LTI Rest Tool in Review|TBC|B2 is no longer supported, Contact partner for more details|
+|Basic LTI Tools      |OSCELOT    |Yes                 |No               | |EOL (Publisher Deprecated) |          |
+|Blackboard Collaborate Voice |Blackboard Collaborate |No |No | |Product Deprecated |                               |
+|Cengage Learning MindLinks |Cengage/Blackboard |Yes |No | |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
+|EAC |Educational Assessments Corporation |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |        |
+|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> ||
+|Health Check |Blackboard |-- |-- | |Unknown |                                                                      |
+|Internships.com |Blackboard Consulting |No |No | |Unknown |                                                        |
+|Javascript Hacks |OSCELOT |Yes |No | |EOL (Publisher Deprecated) |                                                 |
+|Kaltura |Kaltura |Yes |Yes | |LTI Replacement Available<sup>2</sup> |                                              |
+|Learn Transition Planning |Blackboard Client Experience |-- |-- | |Unknown |                                       |
+|McGraw-Hill Campus |McGraw-Hill HE |Yes |-- | |Unknown |                                                           |
+|McGraw-Hill Connect and Create |McGraw-Hill/Blackboard |Yes |-- | |LTI Replacement Available |                     |
+|Mediasite |Sonic Foundry |Yes |-- | |Unknown |                                                                     |
+|Mediasite for VTBE |Sonic Foundry |Yes |-- | |Unknown |                                                            |
+|My Class Climate |Scantron |Yes |-- | |Unknown |                                                                   |
+|NBC Content Integration |Blackboard |-- |-- | |Unknown |                                                           |
+|Online Attendance |Hardin-Simmons University |-- |-- | |EOL (Publisher Deprecated) |                               |
+|Panopto Connector |Panopto |Yes |No | |In Development |                                                            |
+|Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- | |LTI Replacement Available |                              |
+|Qwickly Course Tools |Qwickly |Yes |No | |EOL (Publisher Deprecated) |                                             |
+|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> |          |
+|Respondus LockDown Browser |Respondus |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |           |
+|Seneca Who's Online |Seneca College |-- |-- | |EOL (Publisher Deprecated) |                                        |
+|Soomo Integration |Soomo Learning |-- |-- | |Unknown |                                                             |
 
 
 ### Matrix Footnotes
