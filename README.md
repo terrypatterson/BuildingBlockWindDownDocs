@@ -118,8 +118,7 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |Who’s Online|Open Source|||Available|TBC|This Open-Source Building Block has fallen out of support by the community and won’t be supported beyond Dec 2023. Authentication logs in the admin panel can be used to determine users logged in during a certain time period.|
 |WileyPLUS|Wiley|||Available|Yes||
 |YorkDSK|Open Source|||In Development|TBC|Under review, Anthology is planning to address key use cases in the near future. An alternative LTI+REST version of the YorkDSK tool that institutions can deploy is also available on GitHub.com.|
-|Yuja|Yuja|||Available|Yes|How to set up the tool
-https://support.yuja.com/hc/en-us/articles/360048644334-Integrating-the-YuJa-Enterprise-Video-Platform-into-Blackboard-Learn-Using-LTI-1-3"|
+|Yuja|Yuja|||Available|Yes||
 
 ### Matrix Footnotes
 <sup>1</sup> - Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: [https://community.anthology.com/blogs/8/1243](https://community.anthology.com/blogs/8/1243)<br>
@@ -353,3 +352,8 @@ How to set up the tool<br />
 Link: [https://wpsupport.wiley.com/s/article/WileyPLUS-NewUX-Blackboard-Admin-Integration-Guide-LTI-1-3](https://wpsupport.wiley.com/s/article/WileyPLUS-NewUX-Blackboard-Admin-Integration-Guide-LTI-1-3)<br />
 
 Contact Wiley - LMSintegrations@wiley.com<br /><br />
+
+### Yuja
+<a id="yuja"></a>
+How to set up the tool<br />
+Link: [https://support.yuja.com/hc/en-us/articles/360048644334-Integrating-the-YuJa-Enterprise-Video-Platform-into-Blackboard-Learn-Using-LTI-1-3](https://support.yuja.com/hc/en-us/articles/360048644334-Integrating-the-YuJa-Enterprise-Video-Platform-into-Blackboard-Learn-Using-LTI-1-3)<br /><br />
