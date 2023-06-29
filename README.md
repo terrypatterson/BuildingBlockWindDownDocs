@@ -93,8 +93,7 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |Panopto Connector |Panopto |Yes |No | |In Development |                                                            |
 |Pearson Custom Integration|Pearson Education|||Available|Yes|Contact Pearson to plan migration to Pearson Advantage solution. https://www.pearson.com/us/contact-us/find-your-rep.html|
 |Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- | |LTI Replacement Available |                              |
-|Pebble Learning|Pebble Learning|||LTI Rest Tool in Review|TBC|Get to know more about the tool
-https://appcatalog.blackboard.com/details/pebblepad/|
+|Pebble Learning|Pebble Learning|||LTI Rest Tool in Review|TBC||
 |Poll Everywhere|Poll Everywhere|||Available|Yes|How to set up the tool https://www.polleverywhere.com/PollEv_LTI_Adv_Blackboard_setup_v2_0_0.pdf|
 |ProctorU|ProctorU|||Available|Pending confirmation||
 |Qwickly Course Tools |Qwickly |Yes |No | |EOL (Publisher Deprecated) |                                             |
@@ -260,6 +259,12 @@ Connector<br />
 
 Additional work in process for Original vs. Ultra course support<br />
 Link: [https://appcatalog.blackboard.com/details/panopto/](https://appcatalog.blackboard.com/details/panopto/)<br /><br />
+
+### Pebble Learning
+<a id="pebble"></a>
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/pebblepad/](https://appcatalog.blackboard.com/details/pebblepad/)<br /><br />
 
 ### ProctorU
 <a id="proctor-u"></a>
