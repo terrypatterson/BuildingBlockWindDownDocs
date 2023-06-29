@@ -48,9 +48,7 @@ The information collected in this repository comes from community members, Antho
 |Blackboard New Feature Suggestions|USF|||Unknown|Unknown||
 |Browser Check|Open Source|||Available|N/A|Anthology recommends use of the supported browser checker found at https://help.blackboard.com/Learn/Student/Ultra/Getting_Started/Browser_Support/Browser_Checker.|
 |Bulk Unenroll|WestOne Sevices|||Unknown|Unknown|Most recent version is 1.0.0|
-|Campus Labs Building Block|Campus Labs|||Available||"See multiple solutions here 
- https://appcatalog.blackboard.com/partners/0017000000p3LhGAAU/Campus%20Labs/"|
-
+|Campus Labs Building Block|Campus Labs|||Available||See multiple solutions here https://appcatalog.blackboard.com/partners/0017000000p3LhGAAU/Campus%20Labs/|
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No | |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
 |EAC |Educational Assessments Corporation |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |        |
 |Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> ||
