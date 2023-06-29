@@ -33,15 +33,15 @@ The information collected in this repository comes from community members, Antho
 
 | **Building Block Name** | **Publisher** | **Original Exp Usage** | **Ultra Exp Usage** | **Replacement Status** | **Support Resources** |
 |---------------------|-----------|--------------------|-----------------|--------------------|-------------------|
-|Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Depracated) |            |
+|Basic LTI Tools      |OSCELOT    |Yes                 |No               |EOL (Publisher Deprecated) |            |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No |Product Deprecated |                               |
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
-|EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |                |
-|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |        |
+|EAC |Educational Assessments Corporation |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |        |
+|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> ||
 |Health Check |Blackboard |-- |-- |Unknown |                                                                      |
 |Internships.com |Blackboard Consulting |No |No |Unknown |                                                        |
-|Javascript Hacks |OSCELOT |Yes |No |EOL (Publisher Depracated) |                                                 |
-|Kaltura |Kaltura |Yes |Yes |LTI Replacement Available<sup>2</sup> |                                                      |
+|Javascript Hacks |OSCELOT |Yes |No |EOL (Publisher Deprecated) |                                                 |
+|Kaltura |Kaltura |Yes |Yes |LTI Replacement Available<sup>2</sup> |                                              |
 |Learn Transition Planning |Blackboard Client Experience |-- |-- |Unknown |                                       |
 |McGraw-Hill Campus |McGraw-Hill HE |Yes |-- |Unknown |                                                           |
 |McGraw-Hill Connect and Create |McGraw-Hill/Blackboard |Yes |-- |LTI Replacement Available |                     |
@@ -49,15 +49,14 @@ The information collected in this repository comes from community members, Antho
 |Mediasite for VTBE |Sonic Foundry |Yes |-- |Unknown |                                                            |
 |My Class Climate |Scantron |Yes |-- |Unknown |                                                                   |
 |NBC Content Integration |Blackboard |-- |-- |Unknown |                                                           |
-|Online Attendance |Hardin-Simmons University |-- |-- |EOL (Publisher Depracated) |                               |
+|Online Attendance |Hardin-Simmons University |-- |-- |EOL (Publisher Deprecated) |                               |
 |Panopto Connector |Panopto |Yes |No |In Development |                                                            |
 |Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- |LTI Replacement Available |                              |
-|Qwickly Course Tools |Qwickly |Yes |No |EOL (Publisher Depracated) |                                             |
-|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |                  |
-|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |                   |
-|Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Depracated) |                                        |
+|Qwickly Course Tools |Qwickly |Yes |No |EOL (Publisher Deprecated) |                                             |
+|ReadSpeaker for Blackboard |ReadSpeaker |Yes |No |Official Exception (As of June 19 2023)<sup>1</sup> |          |
+|Respondus LockDown Browser |Respondus |Yes |Yes |Official Exception (As of June 19 2023)<sup>1</sup> |           |
+|Seneca Who's Online |Seneca College |-- |-- |EOL (Publisher Deprecated) |                                        |
 |Soomo Integration |Soomo Learning |-- |-- |Unknown |                                                             |
-
 
 
 ### Matrix Footnotes
