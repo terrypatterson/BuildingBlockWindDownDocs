@@ -36,7 +36,7 @@ The information collected in this repository comes from community members, Antho
 |Add user by role (Durham)|OSCELOT / Open Source |Yes|Yes| |Under review. Anthology is planning to address key use cases in future releases. |
 |Adobe|Adobe|||Available|Yes| |
 |Advanced Group Management|Developed by Florida State University|||Unknown|Unknown|Current version of B2 says 2.0.4|
-|aspire-bb-learn|Talis Education Ltd|||Available|Yes||
+|aspire-bb-learn|Talis Education Ltd|||Available|Yes|<a href="#Aspire">Available</a>|
 |Authentica|Authentica Solutions|||Available|Pending confirmation|Building block no longer supported, contact your Anthology customer service for alternatives|
 |AutoSignon|Open Source|||Available||This Open Source Building Block won’t be supported beyond Dec 2023, instead customers should leverage SSO standards. Our recommended tools are SAML for inbound requests, and LTI for outbound requests. If your institution needs a functionality that is missing, please add the request to the Ideas Exchange.|
 |Barnes & Noble NOOK Study|Barnes & Noble|||LTI Rest Tool in Review|TBC|B2 is no longer supported, Contact partner for more details|
@@ -51,12 +51,12 @@ The information collected in this repository comes from community members, Antho
 |Campus Labs Building Block|Campus Labs|||Available||See multiple solutions here https://appcatalog.blackboard.com/partners/0017000000p3LhGAAU/Campus%20Labs/|
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No | |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
 |Data Visualization Framework|Blackboard Consulting|||Available|Yes|Student Insights Toolkit|
-|Digication|Digication|||Available|Yes||
+|Digication|Digication|||Available|Yes|<a href="#Digication">Available</a>|
 |Downloadable Gradebook Extract and Reporting Framework|Blackboard Consulting|||Available|Yes|Reporting Framework Extension|
 |Dropbox Integration|Dropbox|||LTI Rest Tool in Review|TBC|Additional Integration needs currently under validation by Dropbox|
 |EAC |Educational Assessments Corporation |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |        |
 |Echo360|Echo360|||Available|Yes|Echo 360 LTI tool <br /> https://integration.echo360.com/hc/en-us/articles/360038693531-Configuring-Blackboard-with-Echo360-Integration-Overview <br /> Migration tool under review by Anthology and Echo-360|
-|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> ||
+|Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> |<a href="#eesysoft-impact">Available</a>|
 |Event Gateway|Blackboard Consulting|||Available|TBC||
 |Examity|Examity|||In Development|TBC|Contact partner for more details|
 |ExamSoft|Turnitin|||In Development|TBC|RESTAPI tool in development, Contact partner for more details|
@@ -64,12 +64,12 @@ The information collected in this repository comes from community members, Antho
 |EvaluationKIT User Access|EvaluationKIT|||Available|Yes||
 |GoSignMeUp|GoSignMeUp|||In Development||LTI tool in development,currently in testing phase|
 |Grades Journey|Blackboard Consulting|||Available|Yes|Grades Journey Extension|
-|Hawkes Course Sync Tool|Hawkeslearning.com|||Available|Pending confirmation||
+|Hawkes Course Sync Tool|Hawkeslearning.com|||Available|Pending confirmation|<a href="#Hawkes">Available</a>|
 |Health Check |Blackboard |-- |-- | |Unknown |                                                                      |
-|Honorlock|Honorlock|||Available|Yes||
-|iClicker|iClicker|||Available|Pending confirmation||
+|Honorlock|Honorlock|||Available|Yes|<a href="#Honorlock">Available</a>|
+|iClicker|iClicker|||Available|Pending confirmation|<a href="#iClicker">Available</a>|
 |ILP Integration|Ellucian Inc.|||In Development|TBC|Additional Integration needs currently under validation by Anthology/Ellucian|
-|Impact (former Eesysoft)|Instructure|||Available|Yes||
+|Impact (former Eesysoft)|Instructure|||Available|Yes|<a href="#eesysoft-impact">Available</a>|
 |Impersonate|Open Source|||Available||Anthology recommends using Blackboard Login-As tool released in February 2023, https://help.blackboard.com/node/44822. Additional enhancements are planned|
 Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration needs currently under validation by Anthology/Intelliboard|
 |Internships.com |Blackboard Consulting |No |No | |Unknown |                                                        |
@@ -78,24 +78,24 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |Learn Transition Planning |Blackboard Client Experience |-- |-- | |Unknown |                                       |
 |Learning Objects|Cengage|||Available|Yes|
 |Live Text|Watermark Insights|||LTI Rest Tool in Review|TBC|Contact partner for more details|
-|LoginAs|Open Source|||Available|TBC||
-|Lynda.com|Lynda.com|||Available|Yes||
+|LoginAs|Open Source|||Available|TBC|<a href="#login-as">Available</a>|
+|Lynda.com|Lynda.com|||Available|Yes|<a href="#lynda=linkedin">Available</a>|
 |McGraw-Hill Campus |McGraw-Hill HE |Yes |-- | |Unknown |                                                           |
 |McGraw-Hill Connect and Create |McGraw-Hill/Blackboard |Yes |-- | |LTI Replacement Available |                     |
 |Mediasite |Sonic Foundry |Yes |-- | |Unknown |                                                                     |
 |Mediasite for VTBE |Sonic Foundry |Yes |-- | |Unknown |                                                            |
 |MERLOT Search|MERLOT|||Unknown||
 |My Class Climate |Scantron |Yes |-- | |Unknown |                                                                   |
-|My Messages|Open Source|||Available|TBC||
+|My Messages|Open Source|||Available|TBC|<a href="#my-messages">Available</a>|
 |NBC Content Integration |Blackboard |-- |-- | |Unknown |                                                           |
 |Online Attendance |Hardin-Simmons University |-- |-- | |EOL (Publisher Deprecated) |                               |
-|Panopto|Panopto|||Available|Yes||
-|Panopto Connector |Panopto |Yes |No | |In Development |                                                            |
+|Panopto|Panopto|||Available|Yes|<a href="#panopto">Available</a>|
+|Panopto Connector |Panopto |Yes |No | |In Development |<a href="#panopto-connector">Available</a> |
 |Pearson Custom Integration|Pearson Education|||Available|Yes|Contact Pearson to plan migration to Pearson Advantage solution. https://www.pearson.com/us/contact-us/find-your-rep.html|
 |Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- | |LTI Replacement Available |                              |
-|Pebble Learning|Pebble Learning|||LTI Rest Tool in Review|TBC||
+|Pebble Learning|Pebble Learning|||LTI Rest Tool in Review|TBC|<a href="#pebble">Available</a>|
 |Poll Everywhere|Poll Everywhere|||Available|Yes|How to set up the tool - https://www.polleverywhere.com/PollEv_LTI_Adv_Blackboard_setup_v2_0_0.pdf|
-|ProctorU|ProctorU|||Available|Pending confirmation||
+|ProctorU|ProctorU|||Available|Pending confirmation|<a href="#proctor-u">Available</a>|
 |Qwickly Course Tools |Qwickly |Yes |No | |EOL (Publisher Deprecated) |                                             |
 |ReadSpeaker for Blackboard |ReadSpeaker |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> |          |
 |Respondus LockDown Browser |Respondus |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |           |
@@ -105,20 +105,20 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |ShareStream Tools|ShareStream, LLC|||Available|Pending confirmation|Contact the partner for more details
 |SignUp Lists.|Open Source|||Available|TBC|This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology suggests using alternatives such as Microsoft Bookings or Google Appointments. An opensource LTI/REST version of the SignUp Lists tool that institutions can deploy is also available on GitHub.com.|
 |SIS Framework Controller|Blackboard Consulting|||Available|TBC||
-|SoftChalk Publish with ScoreCenter|SoftChalk|||Available|Yes||
+|SoftChalk Publish with ScoreCenter|SoftChalk|||Available|Yes|<a href="#softchalk">Available</a>|
 |Soomo Integration |Soomo Learning |-- |-- | |Unknown |                                                             |
 |Starfish|EAB Global|||In Development|TBC|Additional Integration needs currently under validation by Anthology/EAB Global|
 |Student Services|Blackboard Consulting|||Available|TBC||
 |Studiosity|Studiosity|||Available|Pending confirmation|Contact the partner for more details|
-|Turnitin Assignment|Turnitin|||Available|Yes||
-|Turnitin Direct Assignment for Blackboard|Turnitin|||Available|Yes|
+|Turnitin Assignment|Turnitin|||Available|Yes|<a href="#turnitin-assignment">Available</a>|
+|Turnitin Direct Assignment for Blackboard|Turnitin|||Available|Yes|<a href="#turnitin-direct">Available</a>|
 |Turning Techonologies|Echo 360|||Available|Yes|Building block no longer supported, Our current integration is primarily a Rest API integration that also utilizes an LTI link. If you're interested into the new tool. Please contact Echo360 support team support@echo360.com they will help you configure the integration.|
-|Ublish|Ublish|||Available|Yes||
-|WebAssign|WebAssign|||Available|Yes||
+|Ublish|Ublish|||Available|Yes|<a href="#ublish">Available</a>|
+|WebAssign|WebAssign|||Available|Yes|<a href="#webassign">Available</a>|
 |Who’s Online|Open Source|||Available|TBC|This Open-Source Building Block has fallen out of support by the community and won’t be supported beyond Dec 2023. Authentication logs in the admin panel can be used to determine users logged in during a certain time period.|
-|WileyPLUS|Wiley|||Available|Yes||
+|WileyPLUS|Wiley|||Available|Yes|<a href="#wileyplus">Available</a>|
 |YorkDSK|Open Source|||In Development|TBC|Under review, Anthology is planning to address key use cases in the near future. An alternative LTI+REST version of the YorkDSK tool that institutions can deploy is also available on GitHub.com.|
-|Yuja|Yuja|||Available|Yes||
+|Yuja|Yuja|||Available|Yes|<a href="#yuja">Available</a>|
 
 ### Matrix Footnotes
 <sup>1</sup> - Blog Post: Important Updates For The Blackboard Learn Building Block Winddown. Posted: June 19, 2023. Link: [https://community.anthology.com/blogs/8/1243](https://community.anthology.com/blogs/8/1243)<br>
@@ -126,23 +126,6 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 
 
 ## Publisher / Developer Information
-
-### Cengage Learning MindLinks
-<a id="Cengage-Learning-MindLinks"></a>
-
-Available with Partner Cloud + LTI 1.3<br>
-
-Get to know more about the tool <br>
-Link: [https://appcatalog.blackboard.com/details/cengage-integration](https://appcatalog.blackboard.com/details/cengage-integration)<br>
-
-How to set up the integration <br>
-Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br>
-
-Migration tool <br>
-Link: [https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br>
-
-Contact Cengage <br>
-Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
 
 ### Aspire - Bb Learn
 <a id="Aspire"></a>
@@ -166,6 +149,24 @@ How to set up the integration<br />
 Link: [https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration](https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration)<br />
 
 Link: [https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248](https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248)<br><br>
+
+
+### Cengage Learning MindLinks
+<a id="Cengage-Learning-MindLinks"></a>
+
+Available with Partner Cloud + LTI 1.3<br>
+
+Get to know more about the tool <br>
+Link: [https://appcatalog.blackboard.com/details/cengage-integration](https://appcatalog.blackboard.com/details/cengage-integration)<br>
+
+How to set up the integration <br>
+Link: [https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf](https://gateway.cengage.com/lms_docs/Admin_LTI_Advantage_BB_Learn_9_1.pdf)<br>
+
+Migration tool <br>
+Link: [https://www.cengage.com/lms-admin/blackboard/](https://www.cengage.com/lms-admin/blackboard/)<br>
+
+Contact Cengage <br>
+Link: [https://www.cengage.com/repfinder/](https://www.cengage.com/repfinder/)<br><br>
 
 ### Digication
 <a id="Digication"></a>
