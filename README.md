@@ -204,7 +204,7 @@ No alternative available in Original<br /><br />
 
 ### LoginAs
 
-Anthology recommends using Blackboard Login-As tool released in February 2023, https://help.blackboard.com/node/44822. Additional enhancements are planned
+Anthology recommends using Blackboard Login-As tool released in February 2023, https://help.blackboard.com/node/44822. Additional enhancements are planned.<br /><br />
 
 ### Lynda / LinkedIn Learning
 
@@ -222,7 +222,7 @@ Migration tool not available<br /><br />
 
 ### My Messages
 
-This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology recommends adopting Base Navigation, where the main use cases are covered natively by Blackboard Learn. If your institution has ideas for improvement, please add the request to the Ideas Exchange.
+This Open-Source Building Block won’t be supported beyond Dec 2023. Anthology recommends adopting Base Navigation, where the main use cases are covered natively by Blackboard Learn. If your institution has ideas for improvement, please add the request to the Ideas Exchange.<br /><br />
 
 ### Panopto and Panopto Connector
 
