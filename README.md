@@ -186,14 +186,21 @@ Link: [https://honorlock.kb.help/using-honorlock-with-blackboard-ultra/](https:/
 
 ### iClicker
 
-Get to know more about the tool - iClicker Cloud - [https://appcatalog.blackboard.com/details/iclicker-cloud/](https://appcatalog.blackboard.com/details/iclicker-cloud/)<br />
-How to set up the tool - [https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard](https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard)
+Get to know more about the tool - iClicker Cloud<br />
+Link: [https://appcatalog.blackboard.com/details/iclicker-cloud/](https://appcatalog.blackboard.com/details/iclicker-cloud/)<br />
+
+How to set up the tool<br />
+Link: [https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard](https://macmillan.force.com/iclicker/s/article/Instructor-Guide-iClicker-Cloud-LTI-Integration-with-Blackboard)<br /><br />
 
 ### Eesysoft / Impact
 
-Get to know more about the tool - [https://appcatalog.blackboard.com/details/eesysoft-in-ultra](https://appcatalog.blackboard.com/details/eesysoft-in-ultra)<br />
-How to set up the integration - [https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662](https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662)<br />
-No alternative available in Original
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/eesysoft-in-ultra](https://appcatalog.blackboard.com/details/eesysoft-in-ultra)<br />
+
+How to set up the integration<br />
+Link: [https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662](https://community.canvaslms.com/t5/Impact-Guides/How-do-I-install-the-Impact-integration-in-the-Blackboard-Learn/ta-p/496662)<br />
+
+No alternative available in Original<br /><br />
 
 ### LoginAs
 
@@ -202,10 +209,16 @@ Anthology recommends using Blackboard Login-As tool released in February 2023, h
 ### Lynda / LinkedIn Learning
 
 LinkedIn Learning available through LTI1.3 and Partner Cloud<br />
-Get to know more about the tool - [https://appcatalog.blackboard.com/details/linkedin-learning/](https://appcatalog.blackboard.com/details/linkedin-learning/)<br />
-How to set up the tool LTI 1.3 - [https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard](https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard)<br />
-Contact Linkedin Learning - [https://www.linkedin.com/help/learning/ask](https://www.linkedin.com/help/learning/ask)<br />
-Migration tool not available
+
+Get to know more about the tool<br />
+Link: [https://appcatalog.blackboard.com/details/linkedin-learning/](https://appcatalog.blackboard.com/details/linkedin-learning/)<br />
+
+How to set up the tool LTI 1.3<br />
+Link: [https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard](https://learn.microsoft.com/en-us/linkedin/learning/sso-auth/sso-docs/sso-lti-13-blackboard)<br />
+
+Contact Linkedin Learning<br />
+Link: [https://www.linkedin.com/help/learning/ask](https://www.linkedin.com/help/learning/ask)<br />
+Migration tool not available<br /><br />
 
 ### My Messages
 
