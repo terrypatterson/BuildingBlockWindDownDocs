@@ -41,7 +41,16 @@ The information collected in this repository comes from community members, Antho
 |AutoSignon|Open Source|||Available||This Open Source Building Block won’t be supported beyond Dec 2023, instead customers should leverage SSO standards. Our recommended tools are SAML for inbound requests, and LTI for outbound requests. If your institution needs a functionality that is missing, please add the request to the Ideas Exchange.|
 |Barnes & Noble NOOK Study|Barnes & Noble|||LTI Rest Tool in Review|TBC|B2 is no longer supported, Contact partner for more details|
 |Basic LTI Tools      |OSCELOT    |Yes                 |No               | |EOL (Publisher Deprecated) |          |
+|BbStats|Open Source|||Available|TBC|Anthology recommends use of the supported browser checker found at https://help.blackboard.com/Learn/Student/Ultra/Getting_Started/Browser_Support/Browser_Checker.
+|Biometric Signature ID|Biometric Signature ID|||Available|Yes| |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No | |Product Deprecated |                               |
+|Blackboard Link Checker|Blackboard, Inc.|||Unknown|Unknown||
+|Blackboard New Feature Suggestions|USF|||Unknown|Unknown||
+|Browser Check|Open Source|||Available|N/A|Anthology recommends use of the supported browser checker found at https://help.blackboard.com/Learn/Student/Ultra/Getting_Started/Browser_Support/Browser_Checker.|
+|Bulk Unenroll|WestOne Sevices|||Unknown|Unknown|Most recent version is 1.0.0|
+|Campus Labs Building Block|Campus Labs|||Available||"See multiple solutions here 
+ https://appcatalog.blackboard.com/partners/0017000000p3LhGAAU/Campus%20Labs/"|
+
 |Cengage Learning MindLinks |Cengage/Blackboard |Yes |No | |LTI Replacement Available |<a href="#Cengage-Learning-MindLinks">Available</a>|
 |EAC |Educational Assessments Corporation |Yes |Yes | |Official Exception (As of June 19 2023)<sup>1</sup> |        |
 |Eesysoft Connector (Impact) |Eesysoft/Instructure |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> ||
@@ -96,3 +105,11 @@ Get to know more about the tool [https://appcatalog.blackboard.com/details/talis
 How to set up the integration [https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup](https://support.talis.com/hc/en-us/articles/206319649-Blackboard-and-Talis-Aspire-Reading-Lists-LTI-Tool-setup)<br />
 Contact Talis [https://support.talis.com/hc/en-us/requests/new](https://support.talis.com/hc/en-us/requests/new)
 
+### Biometric Signature ID
+
+Get to know more about the tool, available only in Ultra 
+https://appcatalog.blackboard.com/details/biosig-idtm-lti-1-3-advantage/ 
+How to set up the integration
+https://setup.biosig-id.com/portal/en/kb/articles/lti-installation-guide#Adding_integration
+Contact Biosig
+https://setup.biosig-id.com/portal/en/newticketUnknowndepartmentId=384156000000415045&layoutId=384156000000417248
