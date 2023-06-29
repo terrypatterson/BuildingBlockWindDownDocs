@@ -94,7 +94,7 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |Pearson Custom Integration|Pearson Education|||Available|Yes|Contact Pearson to plan migration to Pearson Advantage solution. https://www.pearson.com/us/contact-us/find-your-rep.html|
 |Pearson MyLab & Mastering |Pearson/Blackboard |Yes |-- | |LTI Replacement Available |                              |
 |Pebble Learning|Pebble Learning|||LTI Rest Tool in Review|TBC||
-|Poll Everywhere|Poll Everywhere|||Available|Yes|How to set up the tool https://www.polleverywhere.com/PollEv_LTI_Adv_Blackboard_setup_v2_0_0.pdf|
+|Poll Everywhere|Poll Everywhere|||Available|Yes|How to set up the tool - https://www.polleverywhere.com/PollEv_LTI_Adv_Blackboard_setup_v2_0_0.pdf|
 |ProctorU|ProctorU|||Available|Pending confirmation||
 |Qwickly Course Tools |Qwickly |Yes |No | |EOL (Publisher Deprecated) |                                             |
 |ReadSpeaker for Blackboard |ReadSpeaker |Yes |No | |Official Exception (As of June 19 2023)<sup>1</sup> |          |
