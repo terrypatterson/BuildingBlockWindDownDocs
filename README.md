@@ -36,7 +36,7 @@ The information collected in this repository comes from community members, Antho
 |Add user by role (Durham)|OSCELOT / Open Source |Yes|Yes| |Under review. Anthology is planning to address key use cases in future releases. |
 |Adobe|Adobe|||Available|Yes| |
 |Advanced Group Management|Developed by Florida State University|||Unknown|Unknown|Current version of B2 says 2.0.4|
-|aspire-bb-learn|Talis Education Ltd|||Available|Yes|<a href="#Aspire">Available</a>|
+|aspire-bb-learn|Talis Education Ltd|||Available|Yes|<a href="#Aspire">More Information</a>|
 |Authentica|Authentica Solutions|||Available|Pending confirmation|Building block no longer supported, contact your Anthology customer service for alternatives|
 |AutoSignon|Open Source|||Available||This Open Source Building Block won’t be supported beyond Dec 2023, instead customers should leverage SSO standards. Our recommended tools are SAML for inbound requests, and LTI for outbound requests. If your institution needs a functionality that is missing, please add the request to the Ideas Exchange.|
 |Barnes & Noble NOOK Study|Barnes & Noble|||LTI Rest Tool in Review|TBC|B2 is no longer supported, Contact partner for more details|
