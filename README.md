@@ -117,7 +117,7 @@ Intelliboard|Intelliboard|||LTI Rest Tool in Review|TBC|Additional Integration n
 |WebAssign|WebAssign|||Available|Yes|<a href="#webassign">Available</a>|
 |Who’s Online|Open Source|||Available|TBC|This Open-Source Building Block has fallen out of support by the community and won’t be supported beyond Dec 2023. Authentication logs in the admin panel can be used to determine users logged in during a certain time period.|
 |WileyPLUS|Wiley|||Available|Yes|<a href="#wileyplus">Available</a>|
-|YorkDSK|Open Source|||In Development|TBC|Under review, Anthology is planning to address key use cases in the near future. An alternative LTI+REST version of the YorkDSK tool that institutions can deploy is also available on GitHub.com.|
+|YorkDSK|Open Source|||In Development|TBC|An actively developed Open Source 3LO-based REST alternative is available at https://github.com/moneil/DSKTOOL-for-Learn|
 |Yuja|Yuja|||Available|Yes|<a href="#yuja">Available</a>|
 
 ### Matrix Footnotes
