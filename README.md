@@ -40,7 +40,7 @@ The information collected in this repository comes from community members, Antho
 |Authentica|Authentica Solutions|||Available|Pending confirmation|Building block no longer supported, contact your Anthology customer service for alternatives|
 |AutoSignon|Open Source|||Available||This Open Source Building Block won’t be supported beyond Dec 2023, instead customers should leverage SSO standards. Our recommended tools are SAML for inbound requests, and LTI for outbound requests. If your institution needs a functionality that is missing, please add the request to the Ideas Exchange.|
 |Barnes & Noble NOOK Study|Barnes & Noble|||LTI Rest Tool in Review|TBC|B2 is no longer supported, Contact partner for more details|
-|Basic LTI Tools      |OSCELOT    |Yes                 |No               | |EOL (Publisher Deprecated) |          |
+|Basic LTI Tools      |OSCELOT    |Yes                 |No               | | |          |
 |BbStats|Open Source|||Available|TBC|Anthology recommends use of the supported browser checker found at https://help.blackboard.com/Learn/Student/Ultra/Getting_Started/Browser_Support/Browser_Checker.
 |Biometric Signature ID|Biometric Signature ID|||Available|Yes| |
 |Blackboard Collaborate Voice |Blackboard Collaborate |No |No | |Product Deprecated |                               |
